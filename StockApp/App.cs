@@ -34,7 +34,7 @@ public class App
         Console.WriteLine("BEGIN MONIES-MAKING SESSION");
         float startFunds = GetClientData().funds;
 
-        // buy 20 shares from each stock exchange
+        // buy 20 shares from each stock exchange except Warsaw
         BuyAllShares();
 
         Console.WriteLine("Waiting a minute before selling...");
