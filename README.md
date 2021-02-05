@@ -1,5 +1,5 @@
 # StockApp
-#### REST Stock App - SCI Lab1
+#### Stock Trading App for SCI Lab1
 
 1) klient kupuje po 20 udziałów na każdej giełdzie poza Warszawą (łącznie 80 transakcji)
 2) czeka minutę, aby upewnić się że ceny zostaną zmienione
